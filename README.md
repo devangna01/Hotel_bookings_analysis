@@ -15,7 +15,7 @@ This project focuses on analyzing hotel booking datasets to understand customer 
 
 ### 1. Channel Dominance
 Digital channels (Web and Mobile App) contribute to approximately **90% of total bookings**.
-![Bookings by Channel](image_a60b48.png)
+![Bookings](Bookings%20by%20Channel.png)
 * **Observation:** Customers strongly prefer direct digital platforms over traditional travel agents.
 
 ### 2. Cancellation Behavior
