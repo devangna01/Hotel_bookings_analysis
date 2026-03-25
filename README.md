@@ -1,5 +1,5 @@
 # Hotel Booking Data Analysis: Revenue & Cancellation Insights
-**Project for TravClan Assignment** | Analyzed by Devangna
+Analyzed by Devangna
 
 ## 📌 Project Overview
 This project focuses on analyzing hotel booking datasets to understand customer behavior and booking patterns. The primary goal was to identify why **20% of bookings are being cancelled** and to provide data-driven recommendations to reduce revenue leakage.
@@ -15,7 +15,7 @@ This project focuses on analyzing hotel booking datasets to understand customer 
 
 ### 1. Channel Dominance
 Digital channels (Web and Mobile App) contribute to approximately **90% of total bookings**.
-![Bookings by Channel](images/bookings_by_channel.png)
+![Bookings by Channel](image_a60b48.png)
 * **Observation:** Customers strongly prefer direct digital platforms over traditional travel agents.
 
 ### 2. Cancellation Behavior
