@@ -20,13 +20,33 @@ Digital channels (Web and Mobile App) contribute to approximately **90% of total
 
 ### 2. Cancellation Behavior
 The analysis revealed a consistent **~20% cancellation rate** (1 in 5 bookings) across all channels.
-![Cancellation Rate by Channel](images/cancellation_rate.png)
+![Cancellation](Cancellation%20Rate%20by%20Channel.png)
 * **Insight:** Since cancellation rates are similar across platforms, the issue is likely rooted in customer behavior or lack of friction in the cancellation process rather than a specific channel bug.
 
 ### 3. Seasonality & Pricing
 Booking values peak in **February and March**, indicating strong seasonal demand.
-![Monthly Trends](images/monthly_trends.png)
+![Trends](Monthly%20Trends.png)
 * **Observation:** Revenue is currently driven by volume rather than premium pricing, as booking values remain consistent regardless of hotel star ratings.
+
+---
+##  Root Cause Analysis
+
+### 1. Customer Behavior Factors
+Customers engage in “multi-booking” behavior (booking multiple options and cancelling later)
+ High price sensitivity leads to switching and cancellations
+Low commitment due to no upfront financial risk
+
+### 2. Product & Policy Design
+Flexible cancellation policies reduce booking commitment
+Lack of incentives for prepaid or non-refundable bookings
+
+### 3. Easy Cancellation and Low Friction
+Cancellation rates are similar across all channels
+ Indicates that the platform allows easy cancellations without restriction
+
+### 4. Pricing and Flexibility Drive Customer Behavior
+Consistent booking values across star ratings indicate standardized pricing
+Customers may be switching or cancelling due to flexibility and price sensitivity
 
 ---
 
@@ -42,6 +62,9 @@ Booking values peak in **February and March**, indicating strong seasonal demand
 
 ### 3. Leverage Seasonality
 * **Dynamic Pricing:** Increase pricing during peak demand (Feb-March) and launch promotions during low-demand periods (May-June).
+  
+### 4. Improve Conversion Quality
+-Encourage prepaid bookings - Use reminders and urgency nudges
 
 ---
 
