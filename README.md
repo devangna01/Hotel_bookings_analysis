@@ -68,7 +68,4 @@ Customers may be switching or cancelling due to flexibility and price sensitivit
 
 ---
 
-## 📂 How to Use
-1. Clone the repo: `git clone https://github.com/your-username/your-repo-name.git`
-2. Install requirements: `pip install pandas matplotlib seaborn`
-3. Run the notebook: `jupyter notebook TravClan_Analysis.ipynb`
+
